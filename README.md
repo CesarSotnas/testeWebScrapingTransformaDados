@@ -1,5 +1,4 @@
 <h1>Primeiro arquivo:</h1><br>
-Baixa PDF <br>
 Comando para rodar o primeiro código no terminal: node teste1WebScraping.js<br><br>
 
 <h1>Segundo arquivo:</h1><br>
