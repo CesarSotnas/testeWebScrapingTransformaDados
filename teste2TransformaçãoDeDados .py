@@ -14,7 +14,7 @@ import zipfile
 #Pega as tabelas das páginas selecionadas
 tabula.read_pdf("Componente Organizacional.pdf", pages=[79])
 tabula.read_pdf("Componente Organizacional.pdf", pages=[79, 80, 81, 82, 83, 84])
-tabula.read_pdf("Componente Organizacional.pdf", pages=[79])
+tabula.read_pdf("Componente Organizacional.pdf", pages=[85])
 
 #Transforma em CSV
 tabula.convert_into("Componente Organizacional.pdf", "tabela_de_tipo_de_demandante.csv", output_format="csv", pages=[79])
