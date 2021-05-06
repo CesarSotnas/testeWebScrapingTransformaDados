@@ -1,7 +1,7 @@
-#Primeiro arquivo:
-Baixa PDF <br>
-Comando para rodar o primeiro código no terminal: node teste1WebScraping.js
+#Primeiro arquivo:<br>
+#Baixa PDF <br>
+Comando para rodar o primeiro código no terminal: node teste1WebScraping.js<br><br>
 
-#Segundo arquivo:
-Comando no terminal: pip install tabula 
-Comando para rodar o código no terminal: python teste2TransformaçãoDeDados.py 
+#Segundo arquivo:<br>
+Comando no terminal: pip install tabula<br>
+Comando para rodar o código no terminal: python teste2TransformaçãoDeDados.py<br>
